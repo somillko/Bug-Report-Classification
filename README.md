@@ -40,5 +40,6 @@ Brief description of the solution approach
   * Stochastic Gradient Descent Boosting
 
 Upon working out of all the solution approaches, we come to a conclusion that Majority voting and Random forest perform the best.
+### In the Screenshots folder I've put the full control flow diagram and also put up the relative performance comparison of all the approaches. So you can refer to them too, moreover everything used is provided in the ipynb file containing the code.
 
 ### For a detailed solution approach and understanding please refer to the code and the report uploaded.
