@@ -3,7 +3,13 @@ Determining the type of Bug so that relevant developer can be applied.
 
 ## Dataset
 ### The dataset is available on this link
-https://drive.google.com/drive/folders/1yCfGBt21UOk6ABFyEw7LpWlpjPjqwGlH?usp=sharing
+
+https://drive.google.com/file/d/1Hbzyq4iii0NPLgvwK-S6vzl2FRon415s/view?usp=drive_link, 
+https://drive.google.com/file/d/1JIPdsmGiYU-enprCQ2shjQULut2EWdii/view?usp=drive_link,
+https://drive.google.com/file/d/18SMaCdUK5al7l-8cZy0Ws5_QjdI-WCdU/view?usp=drive_link,
+https://drive.google.com/file/d/1CE6JYkoCbPurHXiAuWAxTZIZFxUpFYDb/view?usp=drive_link,
+https://drive.google.com/file/d/1rqBhFryqF4mWyGvNEorJLDc7h30alFtH/view?usp=drive_link,
+https://drive.google.com/file/d/1mGH22o4M1zqvy_9s6nXW2YWHOgUt-VRk/view?usp=drive_link
 
 The dataset used for our classification process was used from the JAVA Lucene project hosted on Atlassian. We used JIRA Issue tracking System for downloading our Bug Reports in a Csv Format
 The dataset originally had many rows out of which many are useless so I've discarded them and in the end we are left with 13 rows, namely:-
